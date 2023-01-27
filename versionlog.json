@@ -8,6 +8,9 @@
                 "description": ["Talpius utility 0.0.1 was Relesed!", "高機能の便利ツールがリリースされました！"],
                 "image": null
              },
+            "b1.0.0": {
+                "version": "b1.0.0"
+            }
          }   
      ]
 }
